@@ -16,7 +16,7 @@
 										</div>
 									</div>
 									<div class="answer">
-                                        <%= raw entry.description %>
+                                        <%= entry.description %>
 									</div>
 								</li>
 <% end %>
